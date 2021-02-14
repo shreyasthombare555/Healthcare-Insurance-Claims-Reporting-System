@@ -1,0 +1,101 @@
+provider_id,provider_first_name,provider_last_name,degree,network,claim_id,practice_name,address_id,gender
+7001,Cadman,Delaney, MS , Out Network,900, ADVENT HEATH ,3457,Male 
+7002,Brandon,Nieves,MD ,In Network ,901, SMILE DENTAL ,4557,Male 
+7003,Perry,Sparks, PSYD , Out Network,902,ABC HOSPITAL ,2235, Not Answered
+7004,Marvin,York, CRNP ,In Network ,903, SMILE DENTAL ,4366, Female 
+7005,Samson,Stevens, PSYD ,In Network ,904, VIERRA HOSPITAL ,2265,Male 
+7006,Felix,Long, RD ,In Network ,905, ADVENT HEATH ,2041,Male 
+7007,Jason,Henderson, MS , Out Network,906, MEMORIAL HOSPITAL ,3286, Not Answered
+7008,Xavier,Small, RD ,In Network ,907, SMILE DENTAL ,3960, Not Answered
+7009,Aquila,Frank, MBBS ,In Network ,908,ABC HOSPITAL ,4542, Not Answered
+7010,Baker,Mcbride, MS , Out Network,909, WELLCARE HOSPITAL ,3519,Male 
+7011,Mufutau,Obrien,MD , Out Network,910, CONCORDIA HEALTH ,2157, Female 
+7012,Brenden,Burris, MBBS , Out Network,911, CONCORDIA HEALTH ,1591, Not Answered
+7013,Kyle,Vazquez, MS ,In Network ,912,ABC HOSPITAL ,2061, Not Answered
+7014,Eaton,Suarez, CRNP , Out Network,913, ADVENT HEATH ,1073, Female 
+7015,Joel,Lucas, PSYD ,In Network ,914,ABC HOSPITAL ,4806, Not Answered
+7016,Richard,Merrill, RD ,In Network ,915, ADVENT HEATH ,1419, Female 
+7017,Victor,Dillard, MBBS ,In Network ,916,ABC HOSPITAL ,2583,Male 
+7018,Slade,Cleveland,MD ,In Network ,917, WELLCARE HOSPITAL ,4067, Female 
+7019,Kieran,Mayer, MBBS , Out Network,918, VIERRA HOSPITAL ,3381, Female 
+7020,Carl,Ballard, CRNP ,In Network ,919, ADVENT HEATH ,2107, Female 
+7021,Raymond,Casey, MBBS , Out Network,920, ADVENT HEATH ,2224,Male 
+7022,Nissim,Ellis, CRNP , Out Network,921,ABC HOSPITAL ,4160,Male 
+7023,Jamal,Talley, PSYD , Out Network,922,ABC HOSPITAL ,2743, Not Answered
+7024,Adrian,Buck, RD , Out Network,923, ADVENT HEATH ,4908,Male 
+7025,Holmes,Hanson, PSYD , Out Network,924, SMILE DENTAL ,4583, Not Answered
+7026,Erasmus,Lloyd, PSYD ,In Network ,925, VIERRA HOSPITAL ,4471, Female 
+7027,Coby,Moran, MBBS ,In Network ,926, MEMORIAL HOSPITAL ,4841, Not Answered
+7028,Giacomo,Case, PSYD , Out Network,927,ABC HOSPITAL ,3912, Not Answered
+7029,Jerome,Henry, RD ,In Network ,928, ADVENT HEATH ,2937,Male 
+7030,Garrison,Gilmore, MS ,In Network ,929, VIERRA HOSPITAL ,1357, Female 
+7031,Zeph,Hall, MS , Out Network,930, MEMORIAL HOSPITAL ,3590, Female 
+7032,Nasim,Dale, DDS,In Network ,931, CONCORDIA HEALTH ,3037, Not Answered
+7033,Nash,Vargas, DDS, Out Network,932,ABC HOSPITAL ,1772, Female 
+7034,Nathan,Valentine, RD , Out Network,933, MEMORIAL HOSPITAL ,4321,Male 
+7035,Cade,Conrad, PSYD ,In Network ,934, ADVENT HEATH ,1251, Female 
+7036,Aristotle,Mann, MBBS , Out Network,935, ADVENT HEATH ,2291, Not Answered
+7037,Chandler,Lindsay, DDS, Out Network,936, CONCORDIA HEALTH ,3853,Male 
+7038,Colin,Farmer, MBBS , Out Network,937, ADVENT HEATH ,1271, Not Answered
+7039,Palmer,Robertson, CRNP , Out Network,938,ABC HOSPITAL ,1726, Not Answered
+7040,Dane,Rivera, MS , Out Network,939, SMILE DENTAL ,4057, Not Answered
+7041,Nicholas,Moss, RD , Out Network,940, MEMORIAL HOSPITAL ,3105, Not Answered
+7042,Kirk,Gross, DDS,In Network ,941, SMILE DENTAL ,1795, Female 
+7043,Flynn,Cunningham, RD ,In Network ,942, WELLCARE HOSPITAL ,3297, Female 
+7044,Austin,Stanley, RD ,In Network ,943, WELLCARE HOSPITAL ,4476, Female 
+7045,Harper,Ochoa, MBBS ,In Network ,944, WELLCARE HOSPITAL ,4027,Male 
+7046,Scott,Barber,MD ,In Network ,945,ABC HOSPITAL ,4989, Not Answered
+7047,Rogan,Conley, MBBS ,In Network ,946, SMILE DENTAL ,3110, Not Answered
+7048,Rahim,Peters, MS , Out Network,947, ADVENT HEATH ,1420, Not Answered
+7049,Lane,Forbes, RD ,In Network ,948,ABC HOSPITAL ,2555, Female 
+7050,Ross,Small, MS , Out Network,949, SMILE DENTAL ,1578,Male 
+7051,Jordan,Bernard, DDS,In Network ,950, ADVENT HEATH ,3877,Male 
+7052,Bernard,Spears,MD , Out Network,951, SMILE DENTAL ,1052, Female 
+7053,Arden,Stanton, CRNP , Out Network,952, ADVENT HEATH ,1741, Female 
+7054,Raja,Martin, DDS, Out Network,953, WELLCARE HOSPITAL ,3986, Not Answered
+7055,Lionel,Russell, RD ,In Network ,954, CONCORDIA HEALTH ,2831,Male 
+7056,Preston,Dejesus, MBBS ,In Network ,955, ADVENT HEATH ,3423, Female 
+7057,Asher,Ochoa, MBBS , Out Network,956, WELLCARE HOSPITAL ,3913, Female 
+7058,Bruno,Erickson, MBBS , Out Network,957, VIERRA HOSPITAL ,1946,Male 
+7059,Price,Daniel,MD , Out Network,958, SMILE DENTAL ,4518,Male 
+7060,Nathan,Pickett, MBBS ,In Network ,959, SMILE DENTAL ,1653, Female 
+7061,Curran,Coleman, DDS, Out Network,960, WELLCARE HOSPITAL ,4071, Not Answered
+7062,Nathaniel,Jordan, MBBS ,In Network ,961, ADVENT HEATH ,2843, Not Answered
+7063,Norman,Floyd,MD , Out Network,962, MEMORIAL HOSPITAL ,1537, Not Answered
+7064,Benedict,Mann, MS ,In Network ,963, WELLCARE HOSPITAL ,3860, Not Answered
+7065,Dalton,Bauer, CRNP ,In Network ,964, CONCORDIA HEALTH ,4753, Female 
+7066,Eaton,Whitaker, RD , Out Network,965, VIERRA HOSPITAL ,4514, Female 
+7067,Allistair,Britt, RD , Out Network,966, ADVENT HEATH ,4875,Male 
+7068,Kamal,Jefferson, DDS, Out Network,967, WELLCARE HOSPITAL ,1861, Female 
+7069,Jared,Knox, DDS, Out Network,968,ABC HOSPITAL ,1511, Not Answered
+7070,Abraham,Woodward, MS ,In Network ,969, SMILE DENTAL ,1354, Not Answered
+7071,Dalton,Hale, MBBS , Out Network,970,ABC HOSPITAL ,4272,Male 
+7072,Elliott,Blackwell, MBBS ,In Network ,971, ADVENT HEATH ,4266, Female 
+7073,Kenyon,Miller, RD ,In Network ,972, MEMORIAL HOSPITAL ,1217, Female 
+7074,Palmer,Bryan, RD , Out Network,973, SMILE DENTAL ,4823, Female 
+7075,Yardley,Hobbs, RD , Out Network,974, VIERRA HOSPITAL ,4969, Female 
+7076,Amal,Richard,MD , Out Network,975, SMILE DENTAL ,3966, Not Answered
+7077,Elliott,Ballard, PSYD ,In Network ,976, MEMORIAL HOSPITAL ,1706, Not Answered
+7078,Dean,Sykes, MS ,In Network ,977, SMILE DENTAL ,3654,Male 
+7079,Lawrence,Bailey, DDS, Out Network,978, VIERRA HOSPITAL ,4833, Female 
+7080,Nash,Mcmahon, DDS, Out Network,979, ADVENT HEATH ,3051,Male 
+7081,Timothy,Harper, MBBS ,In Network ,980, SMILE DENTAL ,2710, Female 
+7082,Wallace,Warren, RD , Out Network,981, WELLCARE HOSPITAL ,4132,Male 
+7083,Malachi,Poole,MD , Out Network,982, MEMORIAL HOSPITAL ,1911,Male 
+7084,Graham,Watkins, CRNP ,In Network ,983, WELLCARE HOSPITAL ,3633,Male 
+7085,Tate,Morton, CRNP ,In Network ,984, WELLCARE HOSPITAL ,2332, Not Answered
+7086,Cain,Buckley, MBBS , Out Network,985, ADVENT HEATH ,3008, Not Answered
+7087,August,Long, PSYD ,In Network ,986, ADVENT HEATH ,1457, Female 
+7088,Ralph,Hudson,MD ,In Network ,987, ADVENT HEATH ,3196,Male 
+7089,Ira,Bowman, MBBS , Out Network,988, CONCORDIA HEALTH ,2826, Female 
+7090,Vaughan,Gaines, RD , Out Network,989, WELLCARE HOSPITAL ,2814,Male 
+7091,Barry,Durham, PSYD ,In Network ,990, SMILE DENTAL ,1736, Not Answered
+7092,Asher,Rodgers, PSYD ,In Network ,991, VIERRA HOSPITAL ,1601,Male 
+7093,Judah,Hendricks, CRNP ,In Network ,992, MEMORIAL HOSPITAL ,1454, Not Answered
+7094,Levi,Knapp, PSYD , Out Network,993, MEMORIAL HOSPITAL ,3067, Female 
+7095,Holmes,Stein, MS , Out Network,994, MEMORIAL HOSPITAL ,4346, Not Answered
+7096,Owen,Montgomery, DDS, Out Network,995, MEMORIAL HOSPITAL ,4778,Male 
+7097,Kasper,Wells, MS , Out Network,996, SMILE DENTAL ,4757,Male 
+7098,Basil,Hatfield,MD ,In Network ,997, CONCORDIA HEALTH ,4073,Male 
+7099,Wesley,Townsend, CRNP , Out Network,998, SMILE DENTAL ,3326, Not Answered
+7100,Branden,Lyons, MS ,In Network ,999, WELLCARE HOSPITAL ,3592, Not Answered

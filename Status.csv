@@ -1,0 +1,6 @@
+status_id,claim_status,type
+5001,in progress,cl
+5002,paid,cl
+5003,deny,cl
+5004,pend,cl
+5005,history,cl
