@@ -1,4 +1,4 @@
-# Healthcare-Insurance-Claims-Reporting-System
+# Healthcare Insurance Claims Reporting System
 
 **Business Value:** Developed a Relational Database Architecture for storing Healthcare insurances claims data, designed insightful optimized queries and interactive visualizations with a goal of formulating key ad-hoc dynamic reports and dashboards using MySQL Workbench and Tableau. 
 
